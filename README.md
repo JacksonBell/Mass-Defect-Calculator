@@ -1,5 +1,5 @@
 # Mass-Defect-Calculator
-Ever wanted to calculate Mass Defect? Me either, so I made this in order to do it for me :)
+Ever wanted to calculate Mass Defect? Neither do I, so I made this in order to do it for me :)
 
 It's obviously not perfect and can be improved, so if you're able to make it better please do so
 
