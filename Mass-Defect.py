@@ -12,5 +12,5 @@ Answer = Mnucleus - Mprotons
 print("-------------------------")
 print ("Mnucleus =", (Mnucleus), ("kg"))
 print ("Mprotons =", (Mprotons), ("kg"))
-print ("Mass Defect = ", (Answer) ("kg"))
+print ("Mass Defect = ", (Answer), ("kg"))
 input()
